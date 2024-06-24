@@ -1,0 +1,37 @@
+.price-card {
+    background-color: white;
+    border: none;
+    border-radius: 10px;
+    padding: 20px;
+    width: 300px;
+    text-align: left;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .price-card h2, .price-card h3 {
+    margin: 10px 0;
+  }
+  
+  .price-card ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .price-card li {
+    margin: 10px 0;
+  }
+  
+  .price-card li.text-muted {
+    color: #999;
+  }
+  
+  .price-card button {
+    background-color: #007bff;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 100%;
+  }
+  

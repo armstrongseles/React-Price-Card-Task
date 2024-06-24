@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+  padding: 20px;
+  background-color: #007bff;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.price-card-list {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
